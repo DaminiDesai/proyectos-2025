@@ -1,0 +1,14 @@
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\hp\OneDrive - Universidad Estatal Amazónica\Escritorio\proyectos 2025\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
